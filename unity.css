@@ -1,0 +1,29 @@
+body{
+
+    color: #D6A73F;
+    font-family: abel; 
+
+}
+
+div.geheel{
+    display: flex;
+flex-direction: column;
+margin-left: 10vw;
+}
+
+.tekst{
+    display: flex;
+    flex-direction: column;
+
+}
+
+div.fotos{
+    margin-left: 5vw;
+}
+.foto1{
+    width: 30vw;
+}
+
+p{
+    width: 50vw;
+}

@@ -1,0 +1,64 @@
+
+img.foto1{
+    width: 40vw;
+    margin-left: 5vw;
+    margin-top: 5vw;
+}
+
+div.tekst1{
+    display: flex;
+    flex-flow: column;
+    width: 40vw;
+    margin-left: 5vw;
+}
+div.educatie{
+    display: flex;
+    flex-flow: row;
+}
+
+div.fotos1{
+    display: flex;
+    flex-flow: column;
+}
+
+img.foto5{
+    width: 80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+div.tekst2{
+    width: 50vw;
+    margin-left: 5vw;
+}
+
+div.tekst3{
+    width: 50vw;
+    width: 40vw;
+    margin-left: 5vw;
+}
+
+img.foto6{
+    width: 40vw;
+    margin-left: 5vw;
+    margin-top: 5vw;
+}
+
+h2{
+    text-align: center;
+}
+
+.geheel3{
+    display: flex;
+    flex-flow: row;
+}
+
+.geheel4{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5vw;
+}
+
+.tekst4{
+    width: 50vw;
+}

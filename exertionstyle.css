@@ -1,0 +1,27 @@
+
+img.foto1{
+    width: 80vw;
+    margin-left: 10vw;
+}
+
+
+.tekst{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10vw;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80vw;
+    
+}
+
+.tekst div{
+    flex: 1;
+}
+
+
+.tekst1, .tekst2, .tekst3, .tekst4, .tekst5{
+    flex-direction: row;
+    flex-basis:0;
+    margin: 1vw;
+}

@@ -1,0 +1,24 @@
+.tekst{
+    display: flex;
+    flex-flow: column;
+    width: 60vw;
+}
+p{
+    width: 40vw;
+}
+.box1{
+    display: flex;
+    flex-flow: row;
+    margin-left: 10vw;
+}
+
+img{
+    width: 40vw;
+    height: 40vw;
+}
+
+.fotos{
+    display: flex;
+    flex-flow: column;
+    margin-top: 5vw;
+}

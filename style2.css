@@ -1,0 +1,14 @@
+div.geheel{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10vw;
+}
+
+p{
+    width: 60vw;
+}
+
+
+img.foto1{
+    width: 40vw;
+}

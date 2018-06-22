@@ -1,0 +1,17 @@
+img{ 
+    width: 50vw;
+}
+
+.geheel{
+    display: flex;
+    margin-left: 10vw;
+    
+}
+
+p{
+    width: 20vw;
+}
+
+.tekst{
+    margin-left: 10vw;
+}

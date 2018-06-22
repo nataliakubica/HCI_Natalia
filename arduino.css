@@ -1,0 +1,38 @@
+
+h2{
+    text-align: center;
+}
+
+.tekst{
+    display: flex;
+    flex-flow: row wrap; 
+    align-items: center;
+}
+
+div.ass > h2{
+    margin-left: 10vw;
+}
+
+p{
+    margin-left: 10vw;
+    width: 30vw;
+}
+
+.beeld{
+    margin-left: 15vw;
+}
+
+video{
+    width: 30vw;
+    margin-left: 10vw;
+}
+
+.code{
+    width: 30vw;
+    margin-left: 10vw;
+}
+.ass{
+    display: flex;
+    flex-flow: row;
+    margin-bottom: 10vw;
+}

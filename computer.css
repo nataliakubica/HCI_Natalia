@@ -1,0 +1,63 @@
+
+
+img.foto{
+    width: 80vw;
+}
+
+p.tekstcv{
+    width: 50vw;
+}
+
+p.tekstpro{
+    width: 50vw;
+}
+
+.foto1{
+    width: 40vw;
+    height: auto;
+}
+
+.fotopro1{
+    width: 40vw;
+    height: 50vw;
+}
+
+.fotoc1{
+    width: 40vw;
+    height: 50vw;
+}
+
+.fotopro3{
+    width: 30vw;
+    height: 40vw;
+}
+
+.fotoc3{
+    width: 40vw;
+    height: 50vw;
+}
+.tekst{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10vw;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80vw;
+    
+}
+
+.tekst div{
+    flex: 1;
+}
+
+
+.tekst1, .tekst2, .tekst3, .tekst4, .tekst5{
+    flex-direction: row;
+    flex-basis:0;
+    margin: 1vw;
+}
+
+.ass1{
+    display: flex;
+    flex-flow: row;
+}
